@@ -1,5 +1,19 @@
+*{
+  font-family: 'Nunito', sans-serif;
+}
+
 .App {
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 50vh;
+}
+
+.login-container input{
+  margin-left: 10px;
+  width: 200px;
 }
 
 .App-logo {
